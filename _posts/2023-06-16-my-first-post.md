@@ -56,13 +56,14 @@ last_modified_at: 2023-06-16
 
 `원래 힘으로 돌아가려는 힘 벡터` = \\[\vec{f_{ij,spring}} = -k(\vert\vec{x_i} - \vec{x_j}\vert - l_0){\vec{x_i} - \vec{x_j}\over{\vert\vec{x_i} - \vec{x_j}\vert}} \\]
 
+
 <iframe src="paper/sne.pdf" width="100%" height="800px">
-  <p>Unable to display PDF. Click <a href="paper/sne.pdf">here</a> to download it.</p>
+  <p>Unable to display PDF. Click <a href="../paper/dimension_reduction/sne.pdf">here</a> to download it.</p>
 </iframe>
 
 byebye
-
+---
 # bye
-<a href="paper/sne.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-   
+<a href="../paper/dimension_reduction/sne.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+    
 ---
