@@ -29,5 +29,14 @@ we using the neural network to reduce the dimensionality of data.
 KL(P(x)||Q(x)) = \sum_{x} P(x) log \frac{P(x)}{Q(x)}
 //
 
+## PDF Document
+
+<iframe src="paper/sne.pdf" width="100%" height="800px">
+  <p>Unable to display PDF. Click <a href="paper/sne.pdf">here</a> to download it.</p>
+</iframe>
+
+byebye
+---
+# bye
 <a href="paper/sne.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
     
