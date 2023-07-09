@@ -32,7 +32,7 @@ KL(P(x)||Q(x)) = \sum_{x} P(x) log \frac{P(x)}{Q(x)}
 
 ## PDF Document
 
-<iframe src="paper/sne.pdf" width="100%" height="800px">
+<iframe src="../paper/dimension_reduction/sne.pdf" width="100%" height="800px">
   <p>Unable to display PDF. Click <a href="../paper/dimension_reduction/sne.pdf">here</a> to download it.</p>
 </iframe>
 
