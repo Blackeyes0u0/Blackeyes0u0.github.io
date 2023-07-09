@@ -26,9 +26,15 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 
 we using the neural network to reduce the dimensionality of data.
 
-'kl divergence' = \\(KL(P(x)||Q(x)) = \sum_{x} P(x) log \frac{P(x)}{Q(x)}\\)
+\\(KL(P(x)||Q(x)) = \sum_{x} P(x) log \frac{P(x)}{Q(x)}\\)
 
 \\(\vec{f_{ij,spring}} = -k(\vert\vec{x_i} - \vec{x_j}\vert - l_0){\vec{x_i} - \vec{x_j}\over{\vert\vec{x_i} - \vec{x_j}\vert}} \\)
+
+\\(\begin{equation}
+f_{i j, s p r i n g}=-k\left(\left|\vec{x}_i-\vec{x}_j\right|-l_0\right) \frac{\vec{x}_i-\vec{x}_j}{\left|\vec{x}_i-\vec{x}_j\right|}
+\end{equation}\\)
+
+\\(f_{i j, s p r i n g}=-k\left(\left|\vec{x}_i-\vec{x}_j\right|-l_0\right) \frac{\vec{x}_i-\vec{x}_j}{\left|\vec{x}_i-\vec{x}_j\right|}\\)
 
 ## PDF Document
 
