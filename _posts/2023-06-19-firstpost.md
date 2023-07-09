@@ -25,7 +25,9 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 
 we using the neural network to reduce the dimensionality of data.
 
-$$ 
+//
 KL(P(x)||Q(x)) = \sum_{x} P(x) log \frac{P(x)}{Q(x)}
-$$
+//
+
+<a href="paper/sne.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
     
