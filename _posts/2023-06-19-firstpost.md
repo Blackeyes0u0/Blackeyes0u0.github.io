@@ -36,6 +36,24 @@ f_{i j, s p r i n g}=-k\left(\left|\vec{x}_i-\vec{x}_j\right|-l_0\right) \frac{\
 
 \\(f_{i j, s p r i n g}=-k\left(\left|\vec{x}_i-\vec{x}_j\right|-l_0\right) \frac{\vec{x}_i-\vec{x}_j}{\left|\vec{x}_i-\vec{x}_j\right|}\\)
 
+### 1
+
+\\(\begin{equation}
+\mid \sum_i^n L\left(f\left(X_i\right), Y_i\right)-\sum_i^n L\left(f^{\prime}(R(x)), Y_i\right)
+\end{equation}\\)
+
+### 2
+
+$$
+\mid \sum_i^n L\left(f\left(X_i\right), Y_i\right)-\sum_i^n L\left(f^{\prime}(R(x)), Y_i\right)
+$$
+
+### 3
+$\mid \sum_i^n L\left(f\left(X_i\right), Y_i\right)-\sum_i^n L\left(f^{\prime}(R(x)), Y_i\right)$
+
+### 4
+
+\\(\mid \sum_i^n L\left(f\left(X_i\right), Y_i\right)-\sum_i^n L\left(f^{\prime}(R(x)), Y_i\right)\\)
 ## PDF Document
 
 <iframe src="../paper/dimension_reduction/sne.pdf" width="100%" height="800px">
