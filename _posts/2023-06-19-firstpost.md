@@ -25,7 +25,7 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 
 
 we using the neural network to reduce the dimensionality of data.
-
+<!-- 
 \\(KL(P(x)||Q(x)) = \sum_{x} P(x) log \frac{P(x)}{Q(x)}\\)
 
 \\(\vec{f_{ij,spring}} = -k(\vert\vec{x_i} - \vec{x_j}\vert - l_0){\vec{x_i} - \vec{x_j}\over{\vert\vec{x_i} - \vec{x_j}\vert}} \\)
@@ -53,15 +53,13 @@ $\mid \sum_i^n L\left(f\left(X_i\right), Y_i\right)-\sum_i^n L\left(f^{\prime}(R
 
 ### 4
 
-\\(\mid \sum_i^n L\left(f\left(X_i\right), Y_i\right)-\sum_i^n L\left(f^{\prime}(R(x)), Y_i\right)\\)
+\\(\mid \sum_i^n L\left(f\left(X_i\right), Y_i\right)-\sum_i^n L\left(f^{\prime}(R(x)), Y_i\right)\\) -->
 ## PDF Document
 
-<iframe src="../paper/dimension_reduction/sne.pdf" width="100%" height="800px">
+<iframe src="../paper/dimension_reduction/Tech_Talk_CFP_dm.pdf" width="100%" height="800px">
   <p>Unable to display PDF. Click <a href="../paper/dimension_reduction/sne.pdf">here</a> to download it.</p>
 </iframe>
 
 byebye
 ---
 # bye
-<a href="../paper/dimension_reduction/sne.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-    
