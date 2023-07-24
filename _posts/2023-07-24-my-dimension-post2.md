@@ -44,21 +44,15 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 [naver d2](https://www.youtube.com/@naverd2848/playlists​​)
 
 [SNE](​https://proceedings.neurips.cc/paper/2002/hash/6150ccc6069bea6b5716254057a194ef- Abstract.html​)
-:Geoffrey E. Hinton, Sam Roweis
+: Geoffrey E. Hinton, Sam Roweis
 
 [t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf?fbcl)
-:Geoffrey E. Hinton
+: Geoffrey E. Hinton
 
 
 ​
 ## PDF Document
 
-<iframe src="TechTalkCFP_dimension_reduction.pdf" width="100%" height="800px">
-  <p>Unable to display PDF. Click <a href="TechTalkCFP_dimension_reduction.pdf">here</a> to download it.</p>
-</iframe>
+<object data="../paper/Dimension/TechTalkCFP_dimension_reduction.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-<iframe src="ghost.pdf" width="100%" height="800px">
-  <p>Unable to display PDF. Click <a href="ghost.pdf">here</a> to download it.</p>
-</iframe>
-
-thanks2
+thanks1
