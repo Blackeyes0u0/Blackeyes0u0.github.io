@@ -61,4 +61,8 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
   <p>Unable to display PDF. Click <a href="ghost.pdf">here</a> to download it.</p>
 </iframe>
 
+[![dimension_reduction]()
+
+[![my-pdf]('../paper/Dimension/TechTalkCFP_dimension_reduction.pdf')]('../paper/Dimension/TechTalkCFP_dimension_reduction.pdf')
+
 thanks2

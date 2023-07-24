@@ -55,6 +55,5 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 
 <a href="../paper/Dimension/TechTalkCFP_dimension_reduction.pdf" class="image fit"><img src="images/17.jpg" alt=""></a>
 
-<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+[my-pdf]('../paper/Dimension/TechTalkCFP_dimension_reduction.pdf')
 thanks0

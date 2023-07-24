@@ -53,6 +53,7 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 ​
 ## PDF Document
 
-<object data="../paper/Dimension/TechTalkCFP_dimension_reduction.pdf" width="1000" height="1000" type='application/pdf'></object>
+[![dimension_reduction](../paper/Dimension/TechTalkCFP_dimension_reduction.pdf)
+
 
 thanks1
