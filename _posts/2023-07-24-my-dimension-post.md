@@ -53,12 +53,9 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 ​
 ## PDF Document
 
-<iframe src="index.html" width="100%" height="100%"></iframe>
+[PDF URL](https://github.com/Blackeyes0u0/Blackeyes0u0.github.io/blob/main/paper/Dimension/TechTalkCFP_dimension_reduction.pdf)
 
-<!-- <main>
-  <embed src="../paper/CNN/ghost.pdf" width="100%" height="800px" type="application/pdf">
-</main> -->
 
-<!-- paper/Dimension/TechTalkCFP_dimension_reduction.pdf -->
+<iframe src="../paper/Dimension/TechTalkCFP_dimension_reduction.pdf" width="100%" height="800px" type="application/pdf"></iframe>
 
-thanks0
+thanks to visit
