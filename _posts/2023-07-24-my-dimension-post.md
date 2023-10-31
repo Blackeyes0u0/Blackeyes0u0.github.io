@@ -23,6 +23,44 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 어떤 task를 함에 있어서, 제공하는 data는 우리가 활용하기 적합한 차원과 분포를 띄고 있는가? 라는 물음을 시작으로 차원 축소에 대해서 소개해 보았습니다.
 보시다가 궁금증이나 틀린부분은 댓글로 달아주시면 감사하겠습니다.
 
+
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0001.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0002.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0003.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0004.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0005.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0006.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0007.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0008.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0009.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0010.jpg)
+
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0011.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0012.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0013.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0014.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0015.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0016.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0017.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0018.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0019.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0020.jpg)
+
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0021.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0022.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0023.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0024.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0025.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0026.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0027.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0028.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0029.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0030.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0031.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0032.jpg)
+![image](./image/dimensrion_reduction/TechTalkCFP_dimension_reduction_page-0033.jpg)
+
+
 ### Reference
 
 [colah Visualizing MNIST BLOG](https://colah.github.io/posts/2014-10-Visualizing-MNIST/​)
@@ -55,7 +93,7 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 
 [PDF URL](https://github.com/Blackeyes0u0/Blackeyes0u0.github.io/blob/main/paper/Dimension/TechTalkCFP_dimension_reduction.pdf)
 
-
-<iframe src="../paper/Dimension/TechTalkCFP_dimension_reduction.pdf" width="100%" height="800px" type="application/pdf"></iframe>
+<!-- 
+<iframe src="../paper/Dimension/TechTalkCFP_dimension_reduction.pdf" width="100%" height="800px" type="application/pdf"></iframe> -->
 
 thanks to visit
