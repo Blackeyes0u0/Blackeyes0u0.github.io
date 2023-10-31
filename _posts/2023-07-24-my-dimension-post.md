@@ -18,16 +18,24 @@ last_modified_at: 2023-07-24
 
 papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data with Neural Networks", Science, 2006
 
+![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0001.jpg?raw=true)
+
 #### Abstract
 
 어떤 task를 함에 있어서, 제공하는 data는 우리가 활용하기 적합한 차원과 분포를 띄고 있는가? 라는 물음을 시작으로 차원 축소에 대해서 소개해 보았습니다.
 보시다가 궁금증이나 틀린부분은 댓글로 달아주시면 감사하겠습니다.
 
 
-![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0001.jpg?raw=true)
+#### Intro
+
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0002.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0003.jpg?raw=true)
+
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0004.jpg?raw=true)
+
+
+#### About Data
+
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0005.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0006.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0007.jpg?raw=true)
@@ -37,6 +45,9 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0011.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0012.jpg?raw=true)
+
+#### PCA(Principal component analysis)
+
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0013.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0014.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0015.jpg?raw=true)
@@ -51,6 +62,9 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0023.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0024.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0025.jpg?raw=true)
+
+#### Autoencoder
+
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0026.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0027.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0028.jpg?raw=true)
@@ -60,7 +74,7 @@ papers : J.E.Hinton, R.R.Salakhutdinov, "Reducing the Dimensionality of Data wit
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0032.jpg?raw=true)
 ![image](https://github.com/Blackeyes0u0/Dimension_Reduction_and_Reconstruction/blob/main/images/TechTalkCFP_dimension_reduction_page-0033.jpg?raw=true)
 
-### Reference
+#### Reference
 
 [colah Visualizing MNIST BLOG](https://colah.github.io/posts/2014-10-Visualizing-MNIST/​)
 
