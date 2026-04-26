@@ -1,0 +1,11 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Local draft content (not for public)
+_drafts_local/
+
+# macOS
+.DS_Store
