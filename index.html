@@ -1,0 +1,49 @@
+---
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#0a0a0a"
+  overlay_filter: "0.7"
+  # overlay_image: /assets/images/hero-bg.jpg
+  actions:
+    - label: "View Research"
+      url: "/research/"
+    - label: "GitHub"
+      url: "https://github.com/Blackeyes0u0"
+excerpt: >
+  Building robots that move like animals.<br/>
+  <small>Quadruped RL Locomotion &nbsp;·&nbsp; Sim-to-Real Adaptation &nbsp;·&nbsp; Natural Motion</small>
+
+feature_row:
+  - title: "Quadruped RL Locomotion"
+    excerpt: "End-to-end PPO controller for quadruped robots. Trained in MuJoCo (CPU & GPU), deployed to real hardware in C++. Covers asymmetric Actor-Critic, domain randomization, and velocity tracking."
+    url: "/research/#quadruped-rl-locomotion"
+    btn_label: "Details"
+    btn_class: "btn--primary"
+  - title: "Sim-to-Real Adaptation"
+    excerpt: "Residual Neural Network to bridge the sim-to-real gap. Uses Newton-Euler dynamics and system identification (PACE / CMA-ES) to match actuator and friction parameters. Target: CoRL 2026."
+    url: "/research/#sim-to-real-adaptation"
+    btn_label: "Details"
+    btn_class: "btn--primary"
+  - title: "Natural Motion via AMP"
+    excerpt: "Adversarial Motion Priors for mammal-like gait patterns. Discriminator-guided reward shaping so the robot moves like dogs, cats, or wolves — not just 'functional' walking."
+    url: "/research/#natural-motion"
+    btn_label: "Details"
+    btn_class: "btn--primary"
+---
+
+{% comment %}
+{% include feature_row %}
+
+<div style="text-align:center; padding: 2em 0 0.5em 0;">
+  <h2>Recent Posts</h2>
+</div>
+
+<div class="grid__wrapper">
+{% assign recent_posts = site.posts | limit: 3 %}
+{% for post in recent_posts %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
+{% endcomment %}
